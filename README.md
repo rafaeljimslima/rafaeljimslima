@@ -5,12 +5,6 @@
   I build fast, reliable, human-friendly web apps end-to-end.
 </p>
 
-<p align="center">
-  <a href="mailto:rafaeljimlima93@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/rafaeljimlima93/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://rafael.lima.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-lightgrey?logo=vercel"></a>
-</p>
-
 ---
 
 ## About me
@@ -66,14 +60,6 @@
 
 - Clear scope, aggressive tests, and a crisp rollout plan.  
 - I love turning fuzzy requirements into something measurable and maintainable.
-
----
-
-## Let’s connect
-
-- 📧 rafaeljimlima93@outlook.com
-- 💼 https://www.linkedin.com/in/rafaeljimlima93/  
-- 🌐 https://rafael.lima.dev/
 
 <!--
 Tips:
