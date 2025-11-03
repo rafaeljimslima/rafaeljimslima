@@ -53,15 +53,6 @@
 
 ---
 
-## Selected work (representative)
-> Replace with links to your best public repos or case studies.
-
-- **nextjs-saas-starter** – Production-ready Next.js + Prisma + Auth + Stripe foundation.  
-- **realtime-collab** – WebSocket-powered collaborative editor with CRDT syncing.  
-- **feature-flags-service** – Multi-tenant flags with SDKs, auditing, and kill-switches.
-
----
-
 ## Recent focus
 
 - Shipping AI-assisted product features (retrieval, structured outputs, evals).
